@@ -1,2 +1,2 @@
 # Fun-es_JS
-Anotações do Curso Funções-JS
+Minhas anotações do Curso Funções-JS DIO
